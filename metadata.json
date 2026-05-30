@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Articles & Days (Armenian)",
+  "description": "Իսպաներենի ուսուցման հավելված հայերենով` շաբաթվա օրերի և հոդերի (որոշյալ և անորոշ) 6 ինտերակտիվ խաղերով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
